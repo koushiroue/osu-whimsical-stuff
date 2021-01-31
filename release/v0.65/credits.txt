@@ -1,0 +1,106 @@
+8 January 2018
+2020
+
+
+Whimsical Stuff
+Version 0.60
+Copyright 2018 (c) Excel Koushiroue All Right Resrved?
+
+
+
+
+[[[[Image]]]]
+[[GUI]]
+Menu Background:
+Nekomancer NEXT' Skin
+
+Menu Button:
+Nekomancer NEXT's Skin
+Excel
+
+[[Global]]
+Default Hitnumber:
+Excel
+
+Score Hitnumber:
+Taiko no Tatsujin
+
+Hitnumber:
+Excel
+
+Cursor:
+Excel
+
+Mode:
+Nekomancer NEXT's Skin
+
+Ranking:
+Taiko no Tatsujin
+
+Lighting:
+Nekomancer NEXT's Skin
+Excel
+
+
+[Standard]
+Followpoint:
+Excel
+
+Combobursts:
+Kirby Mass Attack Official Artwork
+Discord-chan
+Baku Doremy Sweet
+
+Spinner :
+Minimalist's Skin
+
+
+[Taiko]
+Pippi:
+Taiko no Tatsujin
+
+[Catch the Beat]
+Fruits:
+Nekomancer NEXT's Skin
+
+Fruit Catcher:
+Kirby!osu's Skin
+
+
+[Mania]
+Nekomancer NEXT's Skin
+
+
+
+
+
+[[[[Sound]]]]
+
+Heartbeat:
+????
+
+Applause:
+BGM 09g - Doki Doki Literature Club
+
+GUI Interaction/ Pause Menu/ Sliderbar/ Section/ Spinner:
+Kirby Return to Dreamland Audio Rips
+
+Combobursts:
+Fanfare - Kirby's Epic Yarn
+Incoming Ring - Discord
+Shiinotic Cry - Pokemon Sun/ MOon
+
+Combobreak:
+Kirby Voices - Super Smash Bros. 3DS/ WiiU
+Kirby voices - Kirby 64 : The Crystal Shards
+
+Taiko:
+Taiko no Tatsujin
+
+Taiko Drum Set:
+NEC PC-98 6 Rhythm Drum Samples
+
+
+
+Icon:
+Baku Doremy Sweet Sprite - Touhou Hyouibana ~ Antinomy of Common Flowers

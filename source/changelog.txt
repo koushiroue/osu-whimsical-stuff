@@ -1,0 +1,49 @@
+
+??
+(Version 0.80) Serious Edition
+-Redesigned Cursor.
+-Redesigned Custom Reverse Arrow.
+-Redesigned Simpler Followpoint.
+-Removed FPS Image.
+-Removed Custom Pause Overlay.
+-Removed 4th frame of DS Taiko.
+-Removed Custom Heartbeat.
+-Removed DDLC Applause.
+-Removed Doremy Comboburst.
+-Removed SFX Comboburst.
+
+
+
+
+
+10th Jan 2018
+(Version 0.70) Taiko Edition beta (Unreleased???)(Was Labeled v0.65)
+-Partially added Don/ Kat Hitcircle image.
+-Added Scorebar image from Clear Skin Ultra 2.4b skin.
+-Added FPS image.
+-Added Pause image from Nekomancer NEXT's Skin.
+-Added DS Taiko image.
+-Added DS Taiko Bar image.
+-Added DS Taiko Hitscore image.
+-Removed Discord-Chan Comboburst. (Who would want that?)
+
+
+8th Jan 2018
+(Version 0.60) Sound Edition
+-Partially added Keys sounds.
+-Added Omake folder.
+-Added Match sounds.
+-Added Sound on clicking Solo.
+-Added Failsound.
+-Added Checks sounds.
+-Added Shutter sound.
+-Replaced Pause Click sounds.
+-Replaced Section sounds.
+-Replaced Sliderbar sound.
+-Fixed Menu Click sounds.
+-Fixed Taiko Drum Set sounds voulume.
+
+
+7th Jan 2018
+(Version 0.10)
+-Initial Release.
